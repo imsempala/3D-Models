@@ -9,3 +9,8 @@ The main design requirements were keeping the design low-cost, minimalizing mate
 
 <img src="https://user-images.githubusercontent.com/108013840/185462088-90c7c173-f510-4efa-8010-0399c8d15b8c.png" width="350" height="350" />
 
+This was my first attempt at creating the cutterhead. It was one solid body with indents in place for mounting the cutting blades. This iteration fails all three requirements and the design was awful.
+
+## Improved Design
+
+<img src="https://user-images.githubusercontent.com/108013840/185462801-d8131529-fd23-4830-87d7-3d593602e56c.png width="350" height="350" />
