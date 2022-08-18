@@ -5,4 +5,7 @@ I was part of a RSO at UW called Hyperloop. The goal of hyperloop is to design a
 ## Design Requirements
 The main design requirements were keeping the design low-cost, minimalizing material waste, and ensuring the component was easily manufacturable. 
 
-## Design Decisions
+## Initial Design
+
+<img src="https://user-images.githubusercontent.com/108013840/185462088-90c7c173-f510-4efa-8010-0399c8d15b8c.png" width="350" height="350" />
+
