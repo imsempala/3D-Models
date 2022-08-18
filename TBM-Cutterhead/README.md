@@ -21,3 +21,9 @@ The original design required that a 0.55 m diameter, 0.3 m thick piece of stock 
 
 The outer ring components are the same, reducing the complexity for the manufacturer as more of the component is created. The inner bars can be manufactured with straight stock and straight cutting operations. All of the components "slot" into place making assembly straightforward as well.
 
+## Design Flaws
+
+The material where the bolts on the outer-ring are connected is fairly thin in comparison to the entire assembly. I would expect there to be a lot of stress in these areas and further analysis would be needed to determine the safety factor. Solutions include increasing the overlap of the outer-ring parts to allow for more material around the bolts, increasing the width of the outer ring, or increasing the thickness.
+
+The cutting profile of the cutterhead is spiral, meaning that cutters would be placed spiraling from the center. These locations are not set in stone and very difficult to place as it needs to avoid joints and pre-existing bolting holes. The cutters on the inner-bars can be placed in a spiral formation, but beyond the bars, an asymmetrical may be necessary. There are also currently no holes for the cutter existing towards the center of the cutterhead.
+
