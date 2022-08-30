@@ -1,4 +1,5 @@
-It's the first iteration of a really big chip clip. My 3D print failed though. 
+# Chip Clip Journey
 
-Things to change:
-Reduce Thickness. Way too thick for chip bags. 
+The following is the first version of a chip clip design. The print was designed to be print in place without any supports. Although my 3D print failed, I could tell overall size and thickness of the component was too large. The print would take too long and the excess material is unnecessary to maintain functionality. 
+
+
