@@ -1,5 +1,7 @@
 # Chip Clip Journey
 
+I eat an unhealthy amount of chips and wanted to make something to seal the them.
+
 ## Version 1
 The following is the first version of a chip clip design. It includes a pushing locking mechanism, inner ridges for sealing the bag, and a rotational joint. The CAD was designed to be print in place without any supports. 
 
@@ -36,3 +38,6 @@ Additionally, the inner ridges added were fairly useless in sealing the bag.
 ## Version 3
 
 I decided to embrace the unclipping method by pushing one side below, and made it easier to do so. I solved the bowing issue by making the clip slightly larger, and changing the geometry of the clip to resist bowing.
+
+One of the unseen changes here is the organization of the Fusion360 CAD file. The last CAD file was a complete mess and changing any parameter was difficult. I made sure every parameter was easy and simple to adjust and everything was defined.
+
