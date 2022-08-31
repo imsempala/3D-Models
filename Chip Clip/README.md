@@ -1,6 +1,7 @@
 # Chip Clip Journey
 
 I eat an unhealthy amount of chips and wanted to make something to seal the them.
+** This was done using Fusion360 using a combination of solid and surface modeling **
 
 ## Version 1
 The following is the first version of a chip clip design. It includes a pushing locking mechanism, inner ridges for sealing the bag, and a rotational joint. The CAD was designed to be print in place without any supports. 
@@ -37,7 +38,49 @@ Additionally, the inner ridges added were fairly useless in sealing the bag.
 
 ## Version 3
 
-I decided to embrace the unclipping method by pushing one side below, and made it easier to do so. I solved the bowing issue by making the clip slightly larger, and changing the geometry of the clip to resist bowing.
+![image](https://user-images.githubusercontent.com/108013840/187759906-b54890bc-bc8d-4d25-89fa-659de788773a.png)
 
-One of the unseen changes here is the organization of the Fusion360 CAD file. The last CAD file was a complete mess and changing any parameter was difficult. I made sure every parameter was easy and simple to adjust and everything was defined.
+For this iteration I wanted to improve a few things:
 
+- Sealing properties
+- Flexture resistance
+- Length
+- Clipping feature
+
+### Sealing Properties
+
+Because of the small dimensions, the sealing ridges of the previous design were ineffeective. I decided that the seal should take up the entire height of the component to both emphasize the sealing properties and increase rigidity
+
+The following section analysis shows how it was implemented.
+
+![image](https://user-images.githubusercontent.com/108013840/187761185-48ce9549-491d-45df-b340-daa80dc79541.png)
+
+### Flexture Resistance
+
+The inner side of the clip is given a slight curve to improve bowing resistance. The last iteration bowed like closed parenthesis as seen here: (). This left a large gap in the middle which reduced clamping pressure and eliminated sealing properties. This was caused from clamping things that were too large, causing the inside to expand when clamped.
+
+I changed the design to follow an unmatched parenthesis like curve as shown here: )(. This hopefully reduces the bowing done to the component when clamping thicker objects. 
+
+![image](https://user-images.githubusercontent.com/108013840/187762613-27805371-1f13-42a8-968e-7d0d02a9ff26.png)
+
+I also changed the geometry/profile of the sealing mechanism to further reduce the bowing.
+
+### Length
+
+The previous design was too small to easily seal even the thinner chip bags. I increased the length by 50 mm (45 mm in sealing) to fix this.
+
+### Clipping Feature
+
+Although the side pushing mechanism was easy, it would cause fatigue and surface wear at the clip. I made it easier for a person to unclip the mechanism using a lever arm. One push on the side and it comes apart.
+
+![image](https://user-images.githubusercontent.com/108013840/187764378-4da11af6-7739-496b-a6a6-32ce39da7e15.png)
+
+### Unseen Changes
+
+One of the unseen changes here is the organization of the Fusion360 CAD file. The last CAD file was a complete mess and changing any parameter was difficult. I made sure every parameter was easy and simple to adjust with everything defined.
+
+## Overall Thoughts
+
+I am very happy with how this design turned out, but I have yet to test out if the bowing resistance design decisions are enough to keep the chip clip from bowing. I think I'll move on to something else, spent way too much time on designing a chip clip.
+
+An STL of the final design will be provided and if you click on it, you can view the 3D model.
