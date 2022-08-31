@@ -1,1 +1,1 @@
-3D models I've made
+3D CAD models and descriptions
