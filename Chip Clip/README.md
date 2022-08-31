@@ -1,6 +1,7 @@
 # Chip Clip Journey
 
 I eat an unhealthy amount of chips and wanted to make something to seal the them.
+
 ** This was done using Fusion360 using a combination of solid and surface modeling **
 
 ## Version 1
