@@ -1,7 +1,5 @@
 # Valorant Turret Model
 
-***Currently the STL file view is messed up, but you get most of the model when viewing the STL.***
-
 <img src="https://user-images.githubusercontent.com/108013840/185503422-6c17da37-9259-4d99-a8bd-6f9ba1c482e1.png" width="500" height="500">
 
 
