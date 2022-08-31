@@ -72,7 +72,7 @@ The previous design was too small to easily seal even the thinner chip bags. I i
 
 ### Clipping Feature
 
-Although the side pushing mechanism was easy, it would cause fatigue and surface wear at the clip. I made it easier for a person to unclip the mechanism using a lever arm. One push on the side and it comes apart.
+Although the side pushing mechanism was cool and easy to design, it would cause material fatigue and surface wear at the clip. I made it easier for a person to unclip the mechanism using a lever arm. One push on the side and it comes apart.
 
 ![image](https://user-images.githubusercontent.com/108013840/187764378-4da11af6-7739-496b-a6a6-32ce39da7e15.png)
 
