@@ -52,7 +52,7 @@ For this iteration I wanted to improve a few things:
 
 Because of the small dimensions, the sealing ridges of the previous design were ineffeective. I decided that the seal should take up the entire height of the component to both emphasize the sealing properties and increase rigidity
 
-The following section analysis shows how it was implemented.
+The following section analysis shows how it was implemented. This was done at an angle greater than 45 degrees so it could be 3D printed without supports.
 
 ![image](https://user-images.githubusercontent.com/108013840/187761185-48ce9549-491d-45df-b340-daa80dc79541.png)
 
