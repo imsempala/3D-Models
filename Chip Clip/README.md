@@ -85,3 +85,26 @@ One of the unseen changes here is the organization of the Fusion360 CAD file. Th
 I am very happy with how this design turned out, but I have yet to test out if the bowing resistance design decisions are enough to keep the chip clip from bowing. I think I'll move on to something else, spent way too much time on designing a chip clip.
 
 An STL of the final design will be provided and if you click on it, you can view the 3D model.
+
+## Final Update (07/31/23)
+
+The chip clip I made before suffered from slight flexture when sealing bags. It wasn't a big deal at the time, but repeated tensile stresses from clamping has caused it to bow. I decided to finally put an end to the chip clip saga and come out with a final design to solve all the issues.
+
+### Changes
+
+- Made the inner seal slightly convex to counterract any bending
+- Increased overall width to improve rigidity
+- Rounded outer sides to improve rigidity and resistance to bending
+- Changed locking mechanism
+
+### Poor Man's Render
+
+Rendered in Fusion360. 
+
+![image](https://github.com/imsempala/3D-Models/assets/108013840/085724c8-af49-42cc-9f0c-db59929e399a)
+
+### Summary
+
+Looks better, works better, seals better, it's just better.
+
+Costs 30 cents to 3D print if using a $21 1kg spool and printing at 20% infill density with 6 solid layers top and bottom.
